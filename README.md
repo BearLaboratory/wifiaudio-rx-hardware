@@ -13,6 +13,18 @@
 </p>
 
 
+整个系统在组织下分为及个仓库，请根据个人的需求参考：
+- [语音发射端硬件](https://github.com/BearLaboratory/wifiaudio-tx-hardware)
+- [发射端固件](https://github.com/BearLaboratory/wifiaudio-tx-firmware)
+- [接收端硬件](https://github.com/BearLaboratory/wifiaudio-rx-hardware)
+- [接收端固件](https://github.com/BearLaboratory/wifiaudio-rx-firmware)
+- [PC端接收服务](https://github.com/BearLaboratory/wifiaudio-rx-pc)
+- [PCM5102A解码验证模块](https://github.com/BearLaboratory/esp32-pcm51202-audio-hardware)
+
+整个系统所使用的到的工具；
+- [EDA工具使用开源免费的Kicad](https://www.kicad.org/)
+- [固件开发使用简单的Arduino](https://www.arduino.cc/)
+
 # 1. WiFi Audio RX （基于WiFi的无线麦克风接收端硬件）
 
 
